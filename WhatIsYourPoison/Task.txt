@@ -1,6 +1,7 @@
 Summary:
 
-We get an Array of ints, every int is the number of a rat which died after tasting the wine bottles, int range is 0-9, (we have 10 rats). we need to return an int from 1-1000 which represent the number of the poisoned bottle.
+We get an Array of ints, every int is the number of a rat which died after tasting the wine bottles, int range is 0-9, (we have 10 rats).
+we need to return an int from 1-1000 which represent the number of the poisoned bottle.
 
 Good Luck
 
