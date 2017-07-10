@@ -3,9 +3,6 @@ package WhatIsYourPoison;
 import java.util.function.DoubleToIntFunction;
 import java.util.function.IntToDoubleFunction;
 
-/**
- * Created by bohdan on 24.03.17.
- */
 public class Solution {
     public static void main(String[] args) {
         System.out.println(find(new int[]{0, 1, 3, 4}));
