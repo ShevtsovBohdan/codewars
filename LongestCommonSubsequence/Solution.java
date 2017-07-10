@@ -3,9 +3,6 @@ package codewars.LongestCommonSubsequence;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by bohdan on 20.03.17.
- */
 public class Solution {
     public static void main(String[] args) {
         System.out.println(lcs("132535365", "123456789"));
